@@ -1,9 +1,16 @@
 # LEE SANG NYUNG 🙂
 ![SangNyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsy6747)](https://solved.ac/lsy6747/) --><br/>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSangNyungLee%2Fhit-counter&count_bg=%239FFF56&title_bg=%23F95A5A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<br/>
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=poooq&color=dark)](https://velog.io/@poooq)
+
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=poooq&color=dark)](https://velog.io/@poooq)
+<br/><br/>
+
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSangNyungLee%2Fhit-counter&count_bg=%239FFF56&title_bg=%23F95A5A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+
+
  
 # 💪SKills 
 
