@@ -1,5 +1,5 @@
 # LEE SANG NYUNG 🙂
-![SangNyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![SangNyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=SangNyung&theme=dark&show_icons=true)
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsy6747)](https://solved.ac/lsy6747/) --><br/>
 
 
