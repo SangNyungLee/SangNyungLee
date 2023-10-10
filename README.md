@@ -1,6 +1,6 @@
 # LEE SANG NYUNG 🙂
-![SangNyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=SangNyungLee&theme=dark&show_icons=true)
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsy6747)](https://solved.ac/lsy6747/) --><br/>
+![SangNyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=SangNyungLee&theme=dark&show_icons=true)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsy6747)](https://solved.ac/lsy6747/)<br/>
 
 <br/>
 
